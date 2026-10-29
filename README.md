@@ -8,7 +8,7 @@ The application provides a web interface where users can register, log in, uploa
 
 **Note:** This project is intended for educational and research purposes only. Its predictions are not a substitute for professional medical diagnosis.
 
-## 🎯 Objectives
+##  Objectives
 
 * Develop a deep learning model for skin lesion image classification.
 * Integrate the trained model into a Django web application.
